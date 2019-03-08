@@ -12,6 +12,6 @@ network.train(trainData,{
     iterations:2000
 });
 
-const output= network.run('this doggy barked at me !.');
+const output= network.run('the dog was running i the park.');
 
 console.log(`Animal: ${output}`);

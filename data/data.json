@@ -20,15 +20,59 @@
         "category":"Dog"
     },
     {
+        "text":"dog is a pet animal",
+        "category":"Dog"
+    },
+    {
+        "text":"dog pooped in the park",
+        "category":"Dog"
+    },
+    {
+        "text":"took my dog to park for a walk",
+        "category":"Dog"
+    },
+    {
         "text":"meow",
         "category":"Cat"
     },
     {
-        "text":"pussy",
+        "text":"pussycat",
         "category":"Cat"
     },
     {
         "text":"flurry",
+        "category":"Cat"
+    },
+    {
+        "text":"cat meowed at me",
+        "category":"Cat"
+    },
+    {
+        "text":"cat scratches he's back",
+        "category":"Cat"
+    },
+    {
+        "text":"lovely cat",
+        "category":"Cat"
+    },
+    {
+        "text":"kitty cat",
+        "category":"Cat"
+    },
+    {
+        "text":"cat jumped from building",
+        "category":"Cat"
+    },
+    {
+        "text":"cats are cute",
+        "category":"Cat"
+    },
+    {
+        "text":"she loves cats",
+        "category":"Cat"
+    },
+    {
+        "text":"this cat has three kittens",
         "category":"Cat"
     }
 ]
