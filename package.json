@@ -1,0 +1,14 @@
+{
+  "name": "machine_learning_js",
+  "version": "1.0.0",
+  "description": "machine learning",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ganesh Srambikal",
+  "license": "MIT",
+  "dependencies": {
+    "brain.js": "^1.6.1"
+  }
+}

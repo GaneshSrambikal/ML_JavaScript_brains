@@ -1,0 +1,26 @@
+[
+    {
+        "text":"barked",
+        "category":"Dog"
+    },
+    {
+        "text":"woff",
+        "category":"Dog"
+    },
+    {
+        "text":"puppy",
+        "category":"Dog"
+    },
+    {
+        "text":"meow",
+        "category":"Cat"
+    },
+    {
+        "text":"pussy",
+        "category":"Cat"
+    },
+    {
+        "text":"flurry",
+        "category":"Cat"
+    }
+]
