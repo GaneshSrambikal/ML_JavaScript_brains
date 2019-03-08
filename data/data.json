@@ -1,14 +1,22 @@
 [
     {
-        "text":"barked",
+        "text":"It barked at me.",
         "category":"Dog"
     },
     {
-        "text":"woff",
+        "text":"barking dog here.",
         "category":"Dog"
     },
     {
-        "text":"puppy",
+        "text":"good doggy",
+        "category":"Dog"
+    },
+    {
+        "text":"doggy says woff",
+        "category":"Dog"
+    },
+    {
+        "text":"small puppy",
         "category":"Dog"
     },
     {
